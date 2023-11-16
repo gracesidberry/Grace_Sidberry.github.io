@@ -1,0 +1,7 @@
+---
+about: 
+  template: marquee
+  id: hero-heading
+---
+
+![](Kids.JPG){fig-align="center"}
